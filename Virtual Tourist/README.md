@@ -1,6 +1,6 @@
 # UDACITY
 ### iOS Developer Nanodegree
-##### P5: Capstone - Build Your Own App!
+##### P4: Virtual Tourist!
 
 ![](VirtualTourist_180.png)
 _______
